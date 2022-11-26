@@ -78,7 +78,7 @@ root.mainloop()
 
 
 """
-More softwares on github
+More on github
 
 visit https://www.github.com/devendrapoonia
 
